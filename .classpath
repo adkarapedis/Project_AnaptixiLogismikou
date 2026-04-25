@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="myy803/springboot/sb_tutorial_7_signup_signin/strategy/" kind="src" path="sb_tutorial_7_signup_signin/src/main/java"/>
+	<classpathentry kind="src" path="sb_tutorial_7_signup_signin/src/main/java/myy803/springboot/sb_tutorial_7_signup_signin/strategy"/>
+	<classpathentry kind="src" path="sb_tutorial_7_signup_signin/src/test/java"/>
+	<classpathentry kind="lib" path="sb_tutorial_7_signup_signin/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="sb_tutorial_7_signup_signin/target/classes"/>
+</classpath>
